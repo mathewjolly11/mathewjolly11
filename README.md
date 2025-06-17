@@ -63,7 +63,7 @@
 ## 📬 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mathew%20Jolly-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathew-jolly-34b558288/)  
-📧 Email: [mathewjolly1999@gmail.com](mailto:mathewjolly1999@gmail.com)
+📧 Email: [mathewjollyavj1172005@gmail.com](mailto:mathewjolly1999@gmail.com)
 
 ---
 
