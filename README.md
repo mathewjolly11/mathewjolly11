@@ -1,65 +1,71 @@
-# 👋 Hi there, I’m Mathew Jolly (@mathewjolly11)
+<h1 align="center">👋 Hi, I’m Mathew Jolly</h1>
+<h3 align="center">🚀 Web Developer | BCA Student | Kerala, India</h3>
 
-- 🌍 Based in **Thodupuzha, Kerala, India**
-- 💻 Passionate about building clean HTML/CSS/JS web experiences
-- 🎓 Currently honing **frontend skills** & exploring modern frameworks
-- 🤝 I’m looking to collaborate on **personal portfolios**, **small web tools**, or **UI experiments**
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/mathew-jolly-34b558288/)
-- ⚡ Fun fact: I often prototype with **pure HTML & CSS**—no frameworks!
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mathewjolly11&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
-## 🚀 Featured Work
-
-### **📂 Profile**  
-A clean, minimal personal bio page—showcases basic web structure & styling.
-
-### **📂 Basic-Website-using-HTML-CSS**  
-An entry‑level yet neat HTML/CSS site demonstrating responsive design.
-
-### **📂 Portfolio**  
-Your personal portfolio template in progress—simple, sleek, and easy to customize.
+## 🧠 About Me
+- 🎓 Pursuing BCA, passionate about crafting clean, responsive web experiences  
+- 💡 Strong in **HTML, CSS, JavaScript**, **Bootstrap**, and **PHP/MySQL**  
+- 🔭 Currently building two core projects: **RushRide** and **EchoShop**, both under active development  
+- 🌱 Actively learning JavaScript frameworks, API integration, and UI/UX principles  
+- 👯 I’m open to collaboration—especially on web tools, UI components, or learning projects  
 
 ---
 
-## 📊 Skills & Tools
+## 🔧 Skills & Tools
 
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+)
-- **Design:** Responsive layouts, Flexbox, Grid
-- **Tools:** VS Code, Chrome DevTools, Git & GitHub
-
----
-
-## 🎯 What I’m Learning
-
-- CSS animations & transitions
-- Modern CSS layouts (Grid/Flex)
-- Framework exploration: maybe **React** or **Vue** next
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
-## 🤝 Let’s Connect
+## 🚧 Featured Projects (In Progress)
 
-| Platform   | Link |
-|------------|------|
-| LinkedIn   | [mathew-jolly](https://www.linkedin.com/in/mathew-jolly-34b558288/) |
-| Portfolio  | [mathewjolly.vercel.app](https://mathewjolly.vercel.app) |
-| Pronouns   | He / Him |
+| Project | Status | Description | Tech Stack |
+|--------|--------|-------------|------------|
+| **🚗 RushRide** | 🔧 In Development | A local transport & ride-share management system | PHP, MySQL, Bootstrap, Google Maps API |
+| **🌾 EchoShop** | 🚧 In Progress | A marketplace connecting farmers and consumers | PHP, JavaScript, MySQL, Maps API |
+| **🌐 Portfolio** | ✅ Live | My personal portfolio website | HTML, CSS, JavaScript |
 
----
-
-## 🌟 Why Follow Me?
-
-- 🔍 Regular updates: tweaks to existing personal pages
-- 💡 Open to feedback & ideas
-- 🎨 Clean‑code aesthetic + learning mindset
+📌 Check for updates at [mathewjolly.vercel.app](https://mathewjolly.vercel.app)
 
 ---
 
-> “Write code as if the next person to maintain it is a violent psychopath who knows where you live.” 😉
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mathewjolly11&show_icons=true&theme=react&hide_border=true" width="48%" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mathewjolly11&theme=react&hide_border=true" width="48%" alt="GitHub streak" />
+</p>
 
 ---
 
-## ⭐ Show Some Love
+## 🌟 What’s Next?
+- Mastering JavaScript frameworks like **React** or **Vue**
+- Adding API-powered features and smoother UI animations  
+- Expanding **RushRide** and **EchoShop** into full-fledged apps
 
-If something here inspired you, a ⭐️ would make my day. Thanks for stopping by!
+---
+
+## 📬 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mathew%20Jolly-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathew-jolly-34b558288/)  
+📧 Email: [mathewjolly1999@gmail.com](mailto:mathewjolly1999@gmail.com)
+
+---
+
+> 💡 “Every line of code you write is a step toward becoming a great developer.”
+
+---
+
+⭐ If anything here resonates with you—drop a ⭐ and let's connect!
