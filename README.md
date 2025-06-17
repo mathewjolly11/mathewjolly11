@@ -24,6 +24,9 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
@@ -37,15 +40,15 @@
 | **🌾 EchoShop** | 🚧 In Progress | A marketplace connecting farmers and consumers | PHP, JavaScript, MySQL, Maps API |
 | **🌐 Portfolio** | ✅ Live | My personal portfolio website | HTML, CSS, JavaScript |
 
-📌 Check for updates at [mathewjolly.vercel.app](https://mathewjolly.vercel.app)
+📌 Visit [mathewjolly.vercel.app](https://mathewjolly.vercel.app) to explore more.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mathewjolly11&show_icons=true&theme=react&hide_border=true" width="48%" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mathewjolly11&theme=react&hide_border=true" width="48%" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mathewjolly11&show_icons=true&theme=react&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mathewjolly11&theme=react&hide_border=true" width="48%" />
 </p>
 
 ---
