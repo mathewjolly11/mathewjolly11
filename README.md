@@ -40,7 +40,7 @@
 | **🌾 EchoShop** | 🚧 In Progress | A marketplace connecting farmers and consumers | PHP, JavaScript, MySQL, Maps API |
 | **🌐 Portfolio** | ✅ Live | My personal portfolio website | HTML, CSS, JavaScript |
 
-📌 Visit [mathewjolly.vercel.app](https://mathewjolly.vercel.app) to explore more.
+📌 Visit [mathewjolly.vercel.app](https://mathewjolly.me) to explore more.
 
 ---
 
