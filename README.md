@@ -1,100 +1,78 @@
-<!-- Hero Section -->
+<!-- Header Section with animated wave -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Mathew%20Jolly&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20India&descAlignY=55&descAlign=62" width="100%" alt="Header Profile Cover" />
   
-  <h2><a href="https://mathewjolly.vercel.app" target="_blank" rel="noopener noreferrer">mathewjolly.vercel.app</a></h2>
+  <br/>
   
-  <p align="center">
-    <strong>Architecting scalable, robust, and user-centric web applications.</strong><br>
-    Bridging the gap between complex backend logic and seamless frontend experiences.
-  </p>
-  
-  <p align="center">
-    <a href="mailto:mathewjolly.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-blue?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email" /></a>
-    <a href="https://mathewjolly.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit_Site-2ea44f?style=for-the-badge&logo=rocket&logoColor=white" alt="Portfolio" /></a>
-    <a href="https://github.com/mathewjolly11"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="https://linkedin.com/in/mathewjolly"><img src="https://img.shields.io/badge/LinkedIn-Connect-0e76a8?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  </p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2EA44F&center=true&vCenter=true&width=530&lines=Transforming+ideas+into+code;Building+scalable+systems;Full+Stack+Engineering;Always+Learning" alt="Typing SVG animation" />
 </div>
 
-<br>
+<br/>
 
+<!-- Badges Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2EA44F&center=true&vCenter=true&width=435&lines=Transforming+ideas+into+code;Building+scalable+systems;Full+Stack+Engineering" alt="Typing SVG animation" />
+  <a href="https://mathewjolly.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit_Site-2ea44f?style=for-the-badge&logo=rocket&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/mathewjolly"><img src="https://img.shields.io/badge/LinkedIn-Connect-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/mathewjolly11"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:mathewjolly.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-blue?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email" /></a>
 </div>
 
 <br><hr><br>
 
-## 🛠 Technology Stack
-
-A curated selection of my core tools and technologies, chosen for performance, scalability, and ecosystem robustness.
+## 🛠️ Technological Arsenal
 
 <div align="center">
-
-| Frontend & UI Ecosystem | Backend & Database Systems |
-| :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=js,html,css&theme=light" alt="Frontend Base" /><br><br><img src="https://skillicons.dev/icons?i=react,tailwind&theme=light" alt="Frontend Frameworks" /> | <img src="https://skillicons.dev/icons?i=nodejs,php,django,python&theme=light" alt="Backend Technologies" /><br><br><img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=light" alt="Databases" /> |
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,php,nodejs,django,mysql,mongodb,js,html,css,tailwind,python,git&theme=light&perline=6" alt="My Tech Stack" />
+  </a>
 </div>
 
 <br><hr><br>
 
-## 🚀 Featured Products
+## 🚀 Featured Projects
 
-Here are some of the key platforms I've engineered. My work focuses on scalable architecture, clean codebases, and practical problem-solving.
+Discover some of the platforms I've engineered. My work heavily emphasizes **scalable architecture**, **clean codebases**, and **practical problem-solving**.
 
-### 1️⃣ RushRide – Taxi Pooling System
-> A comprehensive ride-sharing platform optimizing travel routes and managing bookings in real-time.
-
-*   **Role & Impact:** Engineered the core routing logic, built a responsive user interface for bookings, and developed an administrative dashboard for drivers to manage trips efficiently.
-*   **Tech Stack:** `PHP` `MySQL` `JavaScript` `HTML` `CSS`
-*   **Key Features:** Real-time route management, secure user authentication, distinct rider and driver flows.
-
-<div align="center">
-  <img src="rushride.png" alt="RushRide Platform Screenshot" />
-</div>
-
----
-
-### 2️⃣ BioBin Connect – Waste Management Platform
-> A multi-stakeholder sustainability platform bridging households, waste collectors, and administrative bodies.
-
-*   **Role & Impact:** Designed a resilient backend architecture to handle data tracking across different user roles, promoting organized and automated waste collection workflows.
-*   **Tech Stack:** `Python` `Django`
-*   **Key Features:** Robust multi-tenant architecture, status tracking flows, comprehensive interactive dashboards.
-
-<div align="center">
-  <img src="biobinconnect.png" alt="BioBin Connect UI Screenshot" />
-</div>
-
----
-
-### 3️⃣ Queue Manager – Smart Queueing
-> A digital waitlist and queue management system designed to reduce churn and wait times in service environments.
-
-*   **Role & Impact:** Built a reactive JavaScript interface to digitize queue statuses and streamline user entry management.
-*   **Tech Stack:** `React` `Node.js`
-*   **Key Features:** Live queue updates, centralized admin management panel, intuitive customer-facing display.
-
-<div align="center">
-  <img src="quemanager.png" alt="Queue Manager Demo Screenshot" />
-</div>
-
----
-
-### 4️⃣ Personal Development Portfolio
-> A high-performance, interactive showcase of my technical journey and engineering capabilities.
-
-*   **Link:** [mathewjolly.vercel.app](https://mathewjolly.vercel.app)
-*   **Role & Impact:** Complete end-to-end development, focusing on smooth animations, clean typography, and modern UI/UX product design principles.
-
-<div align="center">
-  <img src="portfolio.png" alt="Portfolio Home Page Screenshot" />
-</div>
+<table align="center" style="border-collapse: collapse;">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚖 RushRide – Taxi Pooling</h3>
+      <p>A comprehensive ride-sharing platform optimizing travel routes and managing bookings in real-time.</p>
+      <code>PHP</code> <code>MySQL</code> <code>JavaScript</code>
+      <br><br>
+      <img src="rushride.png" width="100%" alt="RushRide Screenshot" style="border-radius:10px; border: 1px solid #e1e4e8;"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>♻️ BioBin Connect</h3>
+      <p>A multi-stakeholder sustainability platform bridging households, waste collectors, and admins.</p>
+      <code>Python</code> <code>Django</code> <code>HTML/CSS</code>
+      <br><br>
+      <img src="biobinconnect.png" width="100%" alt="BioBin Connect Screenshot" style="border-radius:10px; border: 1px solid #e1e4e8;"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⏳ Queue Manager</h3>
+      <p>A digital waitlist and queue management system designed to reduce churn and wait times in service environments.</p>
+      <code>React</code> <code>Node.js</code> <code>MongoDB</code>
+      <br><br>
+      <img src="quemanager.png" width="100%" alt="Queue Manager Screenshot" style="border-radius:10px; border: 1px solid #e1e4e8;"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 Developer Portfolio</h3>
+      <p>A high-performance, interactive showcase of my technical journey and engineering capabilities.</p>
+      <code>React</code> <code>Tailwind</code> <code>Next.js</code>
+      <br><br>
+      <a href="https://mathewjolly.vercel.app">
+        <img src="portfolio.png" width="100%" alt="Portfolio Screenshot" style="border-radius:10px; border: 1px solid #e1e4e8;"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br><hr><br>
 
-## 📊 Developer Metrics
+## 📊 Developer Analytics & Metrics
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mathewjolly11&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak Tracker" />
@@ -103,33 +81,47 @@ Here are some of the key platforms I've engineered. My work focuses on scalable 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathewjolly11&layout=compact&theme=radical&hide_border=true&border_radius=10" alt="Most Used Languages" width="48%" />
 </div>
 
-<br><hr><br>
+<br>
 
-## 🧠 Approach & Current Focus
+### 🐍 GitHub Contribution Graph (Snake Animation)
 
-### What I'm building now
-- 👨‍💻 Continuously adding features to my primary portfolio: **[mathewjolly.vercel.app](https://mathewjolly.vercel.app)**
-- 🔭 Working on scaling personal side projects and transitioning architecture designs.
-- 🌱 Diving deeper into Advanced React Patterns and Backend API optimization.
-
-### Engineering Philosophy
-> *"Code is read much more often than it is written."*
-
-I treat software development as an architectural craft. I prioritize **maintainable systems**, **self-documenting code**, and a relentless focus on the **end-user experience**. I believe in writing software that isn't just functional, but reliable, secure, and easy for the next developer to pick up and scale.
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mathewjolly11/mathewjolly11/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mathewjolly11/mathewjolly11/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mathewjolly11/mathewjolly11/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 <br><hr><br>
 
-## 🤝 Let's Collaborate
+## 🔭 Currently Building & Learning
 
-I am always open to discussing technical architecture, new product ideas, or opportunities to join an ambitious engineering team.
-
-*   🌐 **Portfolio:** [mathewjolly.vercel.app](https://mathewjolly.vercel.app)
-*   💻 **GitHub:** [@mathewjolly11](https://github.com/mathewjolly11)
-*   📭 **Email:** [Send me a message](mailto:mathewjolly.dev@gmail.com) 
-*   💼 **LinkedIn:** [Mathew Jolly](https://linkedin.com/in/mathewjolly)
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎯 What I'm Doing</h3>
+      <ul>
+        <li>👨‍💻 Expanding features on <b><a href="https://mathewjolly.vercel.app">my portfolio</a></b></li>
+        <li>🚀 Building scalable backend architectures</li>
+        <li>🛠️ Exploring Open-source contributions</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 What I'm Learning</h3>
+      <ul>
+        <li>🌱 Advanced React Patterns</li>
+        <li>⚡ API Optimization & Performance Tuning</li>
+        <li>🌐 Microservices architecture & System Design</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <br>
 
+> *"Code is read much more often than it is written. I prioritize maintainable systems, self-documenting code, and a relentless focus on the end-user experience."*
+
 <div align="center">
-  <sub>Designed & Documented by Mathew Jolly © 2026</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </div>
