@@ -51,7 +51,7 @@ Here are some of the key platforms I've engineered. My work focuses on scalable 
 *   **Key Features:** Real-time route management, secure user authentication, distinct rider and driver flows.
 
 <div align="center">
-  <code>[ 🖼️ Insert RushRide Platform Screenshot Here (Recommended Aspect Ratio 16:9) ]</code>
+  <img src="rushride.png" alt="RushRide Platform Screenshot" />
 </div>
 
 ---
@@ -64,7 +64,7 @@ Here are some of the key platforms I've engineered. My work focuses on scalable 
 *   **Key Features:** Robust multi-tenant architecture, status tracking flows, comprehensive interactive dashboards.
 
 <div align="center">
-  <code>[ 🖼️ Insert BioBin Connect UI Screenshot Here ]</code>
+  <img src="biobinconnect.png" alt="BioBin Connect UI Screenshot" />
 </div>
 
 ---
@@ -77,7 +77,7 @@ Here are some of the key platforms I've engineered. My work focuses on scalable 
 *   **Key Features:** Live queue updates, centralized admin management panel, intuitive customer-facing display.
 
 <div align="center">
-  <code>[ 🖼️ Insert Queue Manager Demo Screenshot Here ]</code>
+  <img src="quemanager.png" alt="Queue Manager Demo Screenshot" />
 </div>
 
 ---
@@ -89,7 +89,7 @@ Here are some of the key platforms I've engineered. My work focuses on scalable 
 *   **Role & Impact:** Complete end-to-end development, focusing on smooth animations, clean typography, and modern UI/UX product design principles.
 
 <div align="center">
-  <code>[ 🖼️ Insert Portfolio Home Page Screenshot Here ]</code>
+  <img src="portfolio.png" alt="Portfolio Home Page Screenshot" />
 </div>
 
 <br><hr><br>
