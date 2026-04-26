@@ -1,6 +1,7 @@
 <!-- Header Section with animated wave -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Mathew%20Jolly&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20India&descAlignY=55&descAlign=62" width="100%" alt="Header Profile Cover" />
+
   
   <br/>
   
