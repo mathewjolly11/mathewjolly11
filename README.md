@@ -75,10 +75,15 @@ Discover some of the platforms I've engineered. My work heavily emphasizes **sca
 ## 📊 Developer Analytics & Metrics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mathewjolly11&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak Tracker" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=mathewjolly11&show_icons=true&theme=radical&hide_border=true&border_radius=10&count_private=true" alt="GitHub Stats Summary" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathewjolly11&layout=compact&theme=radical&hide_border=true&border_radius=10" alt="Most Used Languages" width="48%" />
+  <!-- Note: third-party image services can be temporarily unavailable; provide text fallbacks -->
+  <p>
+    - <strong>GitHub Stats Summary:</strong> <a href="https://github.com/mathewjolly11">https://github.com/mathewjolly11</a>
+    <br/>
+    - <strong>Most Used Languages:</strong> <a href="https://github.com/mathewjolly11">View languages on GitHub</a>
+  </p>
+  <p>
+    <small>If you prefer image widgets, consider enabling a GitHub Action to generate the images and commit them to the repo so they are served from GitHub (this avoids third-party hotlinking issues).</small>
+  </p>
 </div>
 
 <br>
