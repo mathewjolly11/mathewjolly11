@@ -3,7 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Mathew%20Jolly&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20India&descAlignY=55&descAlign=62" width="100%" alt="Header Profile Cover" />
     <br/>
 
-
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2EA44F&center=true&vCenter=true&width=530&lines=Transforming+ideas+into+code;Building+scalable+systems;Full+Stack+Engineering;Always+Learning" alt="Typing SVG animation" />
 </div>
